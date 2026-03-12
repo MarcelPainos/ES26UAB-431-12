@@ -24,5 +24,7 @@ El nom d’usuari haurà de tenir 5 caràcters com a mínim i no ha d’estar re
 
 RF-03
 
+https://github.com/MarcelPainos/ES26UAB-431-12/blob/main/requirements/RF-03.md 
+
 ### Comments:
 

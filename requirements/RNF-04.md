@@ -24,5 +24,7 @@ Les opcions mostrades en les 2 visions disponibles han d'estar ordenadas en func
 
 RF-06
 
+https://github.com/MarcelPainos/ES26UAB-431-12/blob/main/requirements/RF-06.md 
+
 ### Comments:
 
