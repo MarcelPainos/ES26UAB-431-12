@@ -23,7 +23,7 @@ Es va mostrant la posició actual del repartidor amb la comanda del client en un
 
 RF-12
 
-https://github.dev/MarcelPainos/ES26UAB-431-12/tree/main/requirements/RF-12.md
+https://github.com/MarcelPainos/ES26UAB-431-12/tree/main/requirements/RF-12.md
 
 ### Comments:
 

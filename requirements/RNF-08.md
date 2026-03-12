@@ -24,7 +24,7 @@ Quan es realitzi el pagament, l'applicació s'haurà de connectar a la plataform
 
 RF-13
 
-https://github.dev/MarcelPainos/ES26UAB-431-12/tree/main/requirements/RF-13.md
+https://github.com/MarcelPainos/ES26UAB-431-12/tree/main/requirements/RF-13.md
 
 ### Comments:
 
