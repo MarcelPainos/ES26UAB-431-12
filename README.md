@@ -9,7 +9,7 @@ Som l'equip 12 del grup 431 d'Enginyeria del Software!
   | ***Marcel Pinós Vogel** | 1750215 |
   | Joel Cereza Saurí ||
   | Guillem Casas Gil | 1745960 |
-  | Sebastian Díaz Carrasco |  |
+  | Sebastián Díaz Carrasco |  |
   
 *SCRUM Master d'aquest Sprint 1
 
@@ -18,4 +18,4 @@ Som l'equip 12 del grup 431 d'Enginyeria del Software!
 - Marqueu les tasques a mesura que les completeu al taulell del Trello
 ## Enllaços
 - [Taulell Trello](https://trello.com/invite/b/69b295c49d7b515ef08e4b97/ATTI6d7d6d08eb3f5a6f8e83763861142145CDEF5F95/projecte-software)
-- [Repositori Github](https://github.com/NIU1750215/practica-software-431_12)
+- [Repositori Github](https://github.com/NIU1750215/ES26UAB-431-12)
