@@ -7,7 +7,7 @@ Som l'equip 12 del grup 431 d'Enginyeria del Software!
   | Nom | NIU |
   |--------------------|---------|
   | ***Marcel Pinós Vogel** | 1750215 |
-  | Joel Cereza Saurí ||
+  | Joel Cereza Saurí | 1746460 |
   | Guillem Casas Gil | 1745960 |
   | Sebastián Díaz Carrasco |  |
   
