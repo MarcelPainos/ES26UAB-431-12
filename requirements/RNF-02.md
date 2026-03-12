@@ -1,0 +1,28 @@
+# Requirements 
+
+### ID:
+
+RNF-02
+
+### Type/Category:
+
+NO Funcional/Decisió de disseny
+
+### Version:
+
+1.0
+
+### Title:
+
+Contrasenya
+
+### Description:
+
+La contrasenya haurà de tenir 8 caràcters com a mínim, utilitzant almenys dues majúscules i dos caràcters especials 
+
+### Relations:
+
+Sense completar
+
+### Comments:
+
