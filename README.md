@@ -21,3 +21,6 @@ Som l'equip 12 del grup 431 d'Enginyeria del Software!
 - [Repositori Github](https://github.com/NIU1750215/ES26UAB-431-12)
 - [Document Full de Càlculs Burndown Chart](https://uab-my.sharepoint.com/:x:/g/personal/1750215_uab_cat/IQCU45FsSq4tR4Y3KMHjhEsrAWN3GPcFqTuKRKXHme4s4eE?e=H0BofZ)
 - [Document Presentació SprintReview](https://uab-my.sharepoint.com/:p:/g/personal/1750215_uab_cat/IQAb68ijjnkiRqWk_0zcHZ4UAVvT_qmXSKL5AoHyyGAOuWM?e=MgRTem)
+
+## Sprint 2
+- [Document Full de Càlculs Burndown Chart](https://uab-my.sharepoint.com/:x:/r/personal/1746460_uab_cat/Documents/sprint2_Burndownchart.ods?d=wb098d975fd7a4bf1904ab4697b2e3ef8&csf=1&web=1&e=MFxaTt)
