@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Pàgina-1" id="StdyHSW-n3TUhaE3UmS1">
-    <mxGraphModel dx="1858" dy="1009" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1539" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mQKq1nUCEY7ag4ya3BAD-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Marcar-se a la llista com a no disponible" vertex="1">
-          <mxGeometry height="50" width="120" x="380" y="60" as="geometry" />
+          <mxGeometry height="50" width="120" x="340" y="50" as="geometry" />
         </mxCell>
         <mxCell id="mQKq1nUCEY7ag4ya3BAD-4" edge="1" parent="1" source="mQKq1nUCEY7ag4ya3BAD-5" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -23,7 +23,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mQKq1nUCEY7ag4ya3BAD-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="consulat valoracions dels client" vertex="1">
-          <mxGeometry height="50" width="110" x="390" y="140" as="geometry" />
+          <mxGeometry height="50" width="110" x="330" y="130" as="geometry" />
         </mxCell>
         <mxCell id="mQKq1nUCEY7ag4ya3BAD-8" edge="1" parent="1" source="mQKq1nUCEY7ag4ya3BAD-9" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -34,7 +34,7 @@
         <mxCell id="mQKq1nUCEY7ag4ya3BAD-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;div&gt;rebre menú amb propostes&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="110" x="390" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="mQKq1nUCEY7ag4ya3BAD-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="obrir xat amb el client" vertex="1">
+        <mxCell id="mQKq1nUCEY7ag4ya3BAD-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="xat client-cuiner" vertex="1">
           <mxGeometry height="60" width="105" x="575" y="160" as="geometry" />
         </mxCell>
         <mxCell id="mQKq1nUCEY7ag4ya3BAD-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="acceptar proposta" vertex="1">
@@ -78,6 +78,15 @@
             <mxPoint x="790" y="290" as="sourcePoint" />
             <mxPoint x="834" y="319" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xVrVGT7QnGyQv057cxOT-1" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="460" y="200" as="sourcePoint" />
+            <mxPoint x="510" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xVrVGT7QnGyQv057cxOT-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Client" vertex="1">
+          <mxGeometry height="70" width="40" x="520" y="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

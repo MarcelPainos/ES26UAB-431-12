@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="0Nidf0E8mdSC4pQg_gNM">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2565" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -233,7 +233,7 @@
         <mxCell id="L8pRYwOYS8yWRl4paBZv-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;div&gt;rebre menú amb propostes&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="110" x="234" y="1580" as="geometry" />
         </mxCell>
-        <mxCell id="L8pRYwOYS8yWRl4paBZv-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="obrir xat amb el client" vertex="1">
+        <mxCell id="L8pRYwOYS8yWRl4paBZv-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="xat client-cuiner" vertex="1">
           <mxGeometry height="60" width="105" x="418.99999999999994" y="1540" as="geometry" />
         </mxCell>
         <mxCell id="L8pRYwOYS8yWRl4paBZv-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="acceptar proposta" vertex="1">
@@ -480,12 +480,6 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="60" y="1900" as="sourcePoint" />
             <mxPoint x="203.30000000000018" y="1888.1200000000003" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="L8pRYwOYS8yWRl4paBZv-66" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="430" y="1550" as="sourcePoint" />
-            <mxPoint x="150" y="1350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="L8pRYwOYS8yWRl4paBZv-67" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="L8pRYwOYS8yWRl4paBZv-7" value="">
