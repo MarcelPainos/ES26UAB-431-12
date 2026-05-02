@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="SKAVqDA2A0YFrpq3-BBz">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="l__ghT0vl625HQw07Bo--1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Repartidor" vertex="1">
+          <mxGeometry height="60" width="30" x="60" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="l__ghT0vl625HQw07Bo--4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Confirmar recollida/entrega" vertex="1">
+          <mxGeometry height="50" width="120" x="230" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="l__ghT0vl625HQw07Bo--5" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=-0.035;entryY=0.489;entryDx=0;entryDy=0;entryPerimeter=0;" target="l__ghT0vl625HQw07Bo--4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="100" y="504" as="sourcePoint" />
+            <mxPoint x="170" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wm30TisPGvrlL5gRgQor-1" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.033;entryY=0.703;entryDx=0;entryDy=0;entryPerimeter=0;" target="wm30TisPGvrlL5gRgQor-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="110" y="470" as="sourcePoint" />
+            <mxPoint x="160" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wm30TisPGvrlL5gRgQor-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Rebre ingrés" vertex="1">
+          <mxGeometry height="40" width="100" x="240" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="wm30TisPGvrlL5gRgQor-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Targeta Bancària / PayPal" vertex="1">
+          <mxGeometry height="60" width="30" x="560" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="wm30TisPGvrlL5gRgQor-4" edge="1" parent="1" source="wm30TisPGvrlL5gRgQor-2" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="364" y="390" as="sourcePoint" />
+            <mxPoint x="550" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

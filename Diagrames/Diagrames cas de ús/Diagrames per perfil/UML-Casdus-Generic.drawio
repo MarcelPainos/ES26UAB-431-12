@@ -1,6 +1,6 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.1 Chrome/142.0.7444.265 Electron/39.8.9 Safari/537.36" version="29.6.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.1 Chrome/142.0.7444.265 Electron/39.8.9 Safari/537.36">
   <diagram name="Pàgina-1" id="554452TnlsPXSCmWLVR3">
-    <mxGraphModel dx="777" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1539" dy="1663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -157,6 +157,24 @@
         </mxCell>
         <mxCell id="fca1Em15TCVHM_VSifuS-67" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Validar contrasenya" vertex="1">
           <mxGeometry height="50" width="75" x="850" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="jf3CvK-G_UOngCm0un0t-43" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Iniciar sessió" vertex="1">
+          <mxGeometry height="50" width="90" x="435" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="jf3CvK-G_UOngCm0un0t-44" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.036;entryY=0.724;entryDx=0;entryDy=0;entryPerimeter=0;" target="jf3CvK-G_UOngCm0un0t-43" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="300" y="360" as="sourcePoint" />
+            <mxPoint x="350" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jf3CvK-G_UOngCm0un0t-45" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Gmail/Outlook" vertex="1">
+          <mxGeometry height="60" width="30" x="660" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="jf3CvK-G_UOngCm0un0t-46" edge="1" parent="1" source="jf3CvK-G_UOngCm0un0t-43" style="endArrow=none;html=1;rounded=0;exitX=0.879;exitY=0.075;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="510" y="150" as="sourcePoint" />
+            <mxPoint x="630" y="30" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <mxfile host="app.diagrams.net">
   <diagram name="Pàgina-1" id="StdyHSW-n3TUhaE3UmS1">
-    <mxGraphModel dx="1717" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1858" dy="1009" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="mQKq1nUCEY7ag4ya3BAD-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Cuiner" vertex="1">
-          <mxGeometry height="140" width="80" x="90" y="190" as="geometry" />
+          <mxGeometry height="70" width="40" x="120" y="234.4" as="geometry" />
         </mxCell>
         <mxCell id="mQKq1nUCEY7ag4ya3BAD-2" edge="1" parent="1" source="mQKq1nUCEY7ag4ya3BAD-3" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -56,7 +55,7 @@
         <mxCell id="mQKq1nUCEY7ag4ya3BAD-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="consultar comanda" vertex="1">
           <mxGeometry height="40" width="120" x="380" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="mQKq1nUCEY7ag4ya3BAD-27" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Compte Bancari" vertex="1">
+        <mxCell id="mQKq1nUCEY7ag4ya3BAD-27" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Targeta Bancària / PayPal" vertex="1">
           <mxGeometry height="60" width="30" x="860" y="290" as="geometry" />
         </mxCell>
         <mxCell id="mQKq1nUCEY7ag4ya3BAD-28" edge="1" parent="1" source="mQKq1nUCEY7ag4ya3BAD-31" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="mQKq1nUCEY7ag4ya3BAD-27" value="">
