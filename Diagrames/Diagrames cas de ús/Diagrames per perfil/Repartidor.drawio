@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net">
+<mxfile host="Electron">
   <diagram name="Página-1" id="SKAVqDA2A0YFrpq3-BBz">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1051" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry height="60" width="30" x="60" y="470" as="geometry" />
         </mxCell>
         <mxCell id="l__ghT0vl625HQw07Bo--4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Confirmar recollida/entrega" vertex="1">
-          <mxGeometry height="50" width="120" x="230" y="480" as="geometry" />
+          <mxGeometry height="50" width="120" x="180" y="580" as="geometry" />
         </mxCell>
         <mxCell id="l__ghT0vl625HQw07Bo--5" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=-0.035;entryY=0.489;entryDx=0;entryDy=0;entryPerimeter=0;" target="l__ghT0vl625HQw07Bo--4" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -32,6 +32,24 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="364" y="390" as="sourcePoint" />
             <mxPoint x="550" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2qevKwTNVTZ_1sLYiy0N-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Actualizar estat comanda" vertex="1">
+          <mxGeometry height="50" width="120" x="230" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="2qevKwTNVTZ_1sLYiy0N-22" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="2qevKwTNVTZ_1sLYiy0N-21" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="100" y="495" as="sourcePoint" />
+            <mxPoint x="274" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2qevKwTNVTZ_1sLYiy0N-25" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;direction=east;" value="Google Maps" vertex="1">
+          <mxGeometry height="60" width="30" x="580" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="2qevKwTNVTZ_1sLYiy0N-26" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="350" y="495" as="sourcePoint" />
+            <mxPoint x="560" y="495" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
