@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net">
+<mxfile host="Electron">
   <diagram name="Página-1" id="RU_SD2N5gcsE7URXREo9">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1824" dy="1185" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,8 +31,17 @@
             <mxPoint x="660" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NUM_xANJLqm6ABkhHm2F-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Consultar Plats/Menus (versió sense estar registrat)" vertex="1">
+        <mxCell id="NUM_xANJLqm6ABkhHm2F-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Consultar Plats/Menus disponibles" vertex="1">
           <mxGeometry height="80" width="135" x="210" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="nCuLhjbaMZoZvdO3iNyx-1" edge="1" parent="1" source="NUM_xANJLqm6ABkhHm2F-1" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="630" as="sourcePoint" />
+            <mxPoint x="440" y="585" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nCuLhjbaMZoZvdO3iNyx-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Client" vertex="1">
+          <mxGeometry height="60" width="30" x="440" y="555" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,6 +1,6 @@
 <mxfile host="Electron">
   <diagram name="Página-1" id="SKAVqDA2A0YFrpq3-BBz">
-    <mxGraphModel dx="1051" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1824" dy="1185" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,13 +43,31 @@
             <mxPoint x="274" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2qevKwTNVTZ_1sLYiy0N-25" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;direction=east;" value="Google Maps" vertex="1">
-          <mxGeometry height="60" width="30" x="580" y="470" as="geometry" />
+        <mxCell id="TZbzSH4klNFtPuQU1ikm-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;direction=east;" value="Google Maps" vertex="1">
+          <mxGeometry height="60" width="30" x="782.5" y="470" as="geometry" />
         </mxCell>
-        <mxCell id="2qevKwTNVTZ_1sLYiy0N-26" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+        <mxCell id="TZbzSH4klNFtPuQU1ikm-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;direction=east;" value="Seguir enviament mapa" vertex="1">
+          <mxGeometry height="50" width="100" x="452.5" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="TZbzSH4klNFtPuQU1ikm-5" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="350" y="495" as="sourcePoint" />
-            <mxPoint x="560" y="495" as="targetPoint" />
+            <mxPoint x="552.5" y="495" as="sourcePoint" />
+            <mxPoint x="762.5" y="495" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TZbzSH4klNFtPuQU1ikm-6" edge="1" parent="1" style="endArrow=open;endSize=4;endFill=0;html=1;rounded=0;exitX=0.116;exitY=0.177;exitDx=0;exitDy=0;entryX=-0.039;entryY=0.505;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;dashed=1;" target="TZbzSH4klNFtPuQU1ikm-4" value="Include">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="350" y="493.5" as="sourcePoint" />
+            <mxPoint x="420" y="496.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TZbzSH4klNFtPuQU1ikm-7" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Client" vertex="1">
+          <mxGeometry height="60" width="30" x="400" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="TZbzSH4klNFtPuQU1ikm-8" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="380" y="550" as="sourcePoint" />
+            <mxPoint x="340" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
