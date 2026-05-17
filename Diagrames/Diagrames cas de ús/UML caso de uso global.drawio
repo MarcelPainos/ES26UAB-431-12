@@ -1,6 +1,6 @@
 <mxfile host="Electron">
   <diagram name="Página-1" id="0Nidf0E8mdSC4pQg_gNM">
-    <mxGraphModel dx="2347" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3456" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -373,12 +373,6 @@
             <mxPoint x="1434" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BeZXyclNrSwwSDGvmV8Q-10" edge="1" parent="1" style="endArrow=open;endSize=4;endFill=0;html=1;rounded=0;exitX=0.116;exitY=0.177;exitDx=0;exitDy=0;entryX=-0.031;entryY=0.647;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;dashed=1;" target="L8pRYwOYS8yWRl4paBZv-27" value="Include">
-          <mxGeometry relative="1" width="160" as="geometry">
-            <mxPoint x="1370" y="200" as="sourcePoint" />
-            <mxPoint x="1414" y="229" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BeZXyclNrSwwSDGvmV8Q-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;direction=east;" value="Estat de la comanda" vertex="1">
           <mxGeometry height="50" width="130" x="1710" y="255" as="geometry" />
         </mxCell>
@@ -490,6 +484,12 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="850" y="880" as="sourcePoint" />
             <mxPoint x="850" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B4EL7UxaMIWHxGcMtTaa-1" edge="1" parent="1" source="L8pRYwOYS8yWRl4paBZv-27" style="endArrow=open;endSize=4;endFill=0;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;dashed=1;exitX=0.001;exitY=0.72;exitDx=0;exitDy=0;exitPerimeter=0;" target="L8pRYwOYS8yWRl4paBZv-25" value="Extends">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="1419" y="175" as="sourcePoint" />
+            <mxPoint x="1350" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
