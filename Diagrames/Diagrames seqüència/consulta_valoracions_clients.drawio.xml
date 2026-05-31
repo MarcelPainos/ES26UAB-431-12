@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net">
+  <diagram name="Pàgina-1" id="OFTULqQr_1JR5ckmNeZL">
+    <mxGraphModel dx="1201" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iRd2g--oCPGHhZt32w1W-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Cuiner" vertex="1">
+          <mxGeometry height="60" width="30" x="49" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iRd2g--oCPGHhZt32w1W-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Cuiner" vertex="1">
+          <mxGeometry height="60" width="30" x="49" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="iRd2g--oCPGHhZt32w1W-4" parent="1" style="shape=umlBoundary;whiteSpace=wrap;html=1;" value="interficie&lt;div&gt;Valoracions&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="100" x="199" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iRd2g--oCPGHhZt32w1W-5" parent="1" style="shape=umlBoundary;whiteSpace=wrap;html=1;" value="interficie&lt;div&gt;Valoracions&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="100" x="199" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="iRd2g--oCPGHhZt32w1W-6" parent="1" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" value="Gestor&lt;div&gt;Valoracions&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="70" x="479" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iRd2g--oCPGHhZt32w1W-7" parent="1" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" value="Gestor&lt;div&gt;Valoracions&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="70" x="479" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="iRd2g--oCPGHhZt32w1W-8" parent="1" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" value="valoracio" vertex="1">
+          <mxGeometry height="80" width="80" x="699" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iRd2g--oCPGHhZt32w1W-9" parent="1" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" value="valoracio" vertex="1">
+          <mxGeometry height="80" width="80" x="699" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="iRd2g--oCPGHhZt32w1W-10" edge="1" parent="1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="64" y="130" as="sourcePoint" />
+            <mxPoint x="64" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iRd2g--oCPGHhZt32w1W-12" edge="1" parent="1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="508" y="370" as="sourcePoint" />
+            <mxPoint x="508" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iRd2g--oCPGHhZt32w1W-14" edge="1" parent="1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="248.40999999999997" y="120" as="sourcePoint" />
+            <mxPoint x="249" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iRd2g--oCPGHhZt32w1W-16" edge="1" parent="1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="508" y="120" as="sourcePoint" />
+            <mxPoint x="508" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iRd2g--oCPGHhZt32w1W-19" edge="1" parent="1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="738.4100000000001" y="120" as="sourcePoint" />
+            <mxPoint x="738" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iRd2g--oCPGHhZt32w1W-41" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="220" width="10" x="239" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="iRd2g--oCPGHhZt32w1W-42" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" target="iRd2g--oCPGHhZt32w1W-41" value="accedirValoracions()">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="69" y="145" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iRd2g--oCPGHhZt32w1W-43" edge="1" parent="1" source="iRd2g--oCPGHhZt32w1W-41" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" value="mostrarImpactePosicionament()">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iRd2g--oCPGHhZt32w1W-45" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="190" width="10" x="499" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="iRd2g--oCPGHhZt32w1W-46" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" target="iRd2g--oCPGHhZt32w1W-45" value="obtenirValoracions()">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="249" y="165" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iRd2g--oCPGHhZt32w1W-47" edge="1" parent="1" source="iRd2g--oCPGHhZt32w1W-45" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" target="iRd2g--oCPGHhZt32w1W-41" value="MostrarValoracions()">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="429" y="235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iRd2g--oCPGHhZt32w1W-48" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="80" width="10" x="729" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="iRd2g--oCPGHhZt32w1W-49" edge="1" parent="1" source="iRd2g--oCPGHhZt32w1W-45" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" target="iRd2g--oCPGHhZt32w1W-48" value="getValoracions()">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="659" y="215" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iRd2g--oCPGHhZt32w1W-50" edge="1" parent="1" source="iRd2g--oCPGHhZt32w1W-48" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" value="return">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="509" y="285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
