@@ -1,0 +1,166 @@
+<mxfile host="Electron">
+  <diagram name="Página-1" id="cercar_cuiner_plat">
+    <mxGraphModel dx="1200" dy="900" grid="1" gridSize="10">
+      <root>
+
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+
+        <!-- PARTICIPANTS -->
+
+        <mxCell id="client" value="Client"
+        style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;"
+        vertex="1" parent="1">
+        <mxGeometry x="80" y="80" width="30" height="60" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="boundary" value=""
+        style="shape=umlBoundary;html=1;"
+        vertex="1" parent="1">
+        <mxGeometry x="280" y="80" width="80" height="60" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="txt1" value="InterficiePlats"
+        style="text;strokeColor=none;fillColor=none;"
+        vertex="1" parent="1">
+        <mxGeometry x="270" y="140" width="100" height="30" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="control" value=""
+        style="ellipse;shape=umlControl;html=1;"
+        vertex="1" parent="1">
+        <mxGeometry x="520" y="80" width="80" height="60" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="txt2" value="GestorPlats"
+        style="text;strokeColor=none;fillColor=none;"
+        vertex="1" parent="1">
+        <mxGeometry x="520" y="140" width="90" height="30" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="entity1" value=""
+        style="ellipse;shape=umlEntity;html=1;"
+        vertex="1" parent="1">
+        <mxGeometry x="760" y="80" width="80" height="60" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="txt3" value="Plat"
+        style="text;strokeColor=none;fillColor=none;"
+        vertex="1" parent="1">
+        <mxGeometry x="780" y="140" width="50" height="30" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="entity2" value=""
+        style="ellipse;shape=umlEntity;html=1;"
+        vertex="1" parent="1">
+        <mxGeometry x="970" y="80" width="80" height="60" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="txt4" value="Cuiner"
+        style="text;strokeColor=none;fillColor=none;"
+        vertex="1" parent="1">
+        <mxGeometry x="980" y="140" width="70" height="30" as="geometry"/>
+        </mxCell>
+
+        <!-- MENSAJES -->
+
+        <mxCell id="m1"
+        value="introduirNomCerca()"
+        style="endArrow=classic;"
+        edge="1" parent="1">
+        <mxGeometry relative="1" as="geometry">
+        <mxPoint x="95" y="220" as="sourcePoint"/>
+        <mxPoint x="320" y="220" as="targetPoint"/>
+        </mxGeometry>
+        </mxCell>
+
+        <mxCell id="m2"
+        value="cercarCuinerPlat(nom)"
+        style="endArrow=classic;"
+        edge="1" parent="1">
+        <mxGeometry relative="1" as="geometry">
+        <mxPoint x="320" y="270" as="sourcePoint"/>
+        <mxPoint x="560" y="270" as="targetPoint"/>
+        </mxGeometry>
+        </mxCell>
+
+        <mxCell id="m3"
+        value="buscarPlats(nom)"
+        style="endArrow=classic;"
+        edge="1" parent="1">
+        <mxGeometry relative="1" as="geometry">
+        <mxPoint x="560" y="320" as="sourcePoint"/>
+        <mxPoint x="800" y="320" as="targetPoint"/>
+        </mxGeometry>
+        </mxCell>
+
+        <mxCell id="m4"
+        value="buscarCuiners(nom)"
+        style="endArrow=classic;"
+        edge="1" parent="1">
+        <mxGeometry relative="1" as="geometry">
+        <mxPoint x="560" y="380" as="sourcePoint"/>
+        <mxPoint x="1010" y="380" as="targetPoint"/>
+        </mxGeometry>
+        </mxCell>
+
+        <mxCell id="ret"
+        value="return"
+        style="endArrow=open;dashed=1;"
+        edge="1" parent="1">
+        <mxGeometry relative="1" as="geometry">
+        <mxPoint x="1010" y="430" as="sourcePoint"/>
+        <mxPoint x="560" y="430" as="targetPoint"/>
+        </mxGeometry>
+        </mxCell>
+
+        <mxCell id="m5"
+        value="mostrarResultats()"
+        style="endArrow=classic;"
+        edge="1" parent="1">
+        <mxGeometry relative="1" as="geometry">
+        <mxPoint x="560" y="490" as="sourcePoint"/>
+        <mxPoint x="320" y="490" as="targetPoint"/>
+        </mxGeometry>
+        </mxCell>
+
+        <mxCell id="m6"
+        value="mostrarResultatsObtinguts()"
+        style="endArrow=classic;"
+        edge="1" parent="1">
+        <mxGeometry relative="1" as="geometry">
+        <mxPoint x="320" y="540" as="sourcePoint"/>
+        <mxPoint x="95" y="540" as="targetPoint"/>
+        </mxGeometry>
+        </mxCell>
+
+        <!-- ALT -->
+
+        <mxCell id="alt"
+        value="alt"
+        style="shape=umlFrame;"
+        vertex="1" parent="1">
+        <mxGeometry x="60" y="580" width="1030" height="90" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="txtalt"
+        value="No hi ha coincidències"
+        style="text;strokeColor=none;fillColor=none;"
+        vertex="1" parent="1">
+        <mxGeometry x="110" y="590" width="220" height="30" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="m7"
+        value="mostrarSenseResultats()"
+        style="endArrow=classic;"
+        edge="1" parent="1">
+        <mxGeometry relative="1" as="geometry">
+        <mxPoint x="320" y="640" as="sourcePoint"/>
+        <mxPoint x="95" y="640" as="targetPoint"/>
+        </mxGeometry>
+        </mxCell>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
