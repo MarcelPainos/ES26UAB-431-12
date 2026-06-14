@@ -1,6 +1,6 @@
 <mxfile host="Electron">
   <diagram name="Pàgina-1" id="qvVAie-Hl5Rr7k6o38sZ">
-    <mxGraphModel dx="1824" dy="1185" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="975" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -146,8 +146,8 @@
         </mxCell>
         <mxCell id="b8Wn0gmdy3Yzb2cbIPzx-88" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="660" y="345" as="sourcePoint" />
-            <mxPoint x="390" y="345" as="targetPoint" />
+            <mxPoint x="660" y="354" as="sourcePoint" />
+            <mxPoint x="390" y="354" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="b8Wn0gmdy3Yzb2cbIPzx-89" connectable="0" parent="b8Wn0gmdy3Yzb2cbIPzx-88" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="mostrarErrorContrasenyaIncorrecta()" vertex="1">
@@ -159,18 +159,15 @@
           <mxGeometry height="30" width="150" x="380" y="310" as="geometry" />
         </mxCell>
         <mxCell id="b8Wn0gmdy3Yzb2cbIPzx-91" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" value="alt" vertex="1">
-          <mxGeometry height="60" width="602.5" x="327.5" y="315" as="geometry" />
-        </mxCell>
-        <mxCell id="b8Wn0gmdy3Yzb2cbIPzx-92" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" value="alt" vertex="1">
-          <mxGeometry height="60" width="602.5" x="327.5" y="389" as="geometry" />
+          <mxGeometry height="125" width="602.5" x="327.5" y="315" as="geometry" />
         </mxCell>
         <mxCell id="b8Wn0gmdy3Yzb2cbIPzx-93" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="contrasenya correcta" vertex="1">
-          <mxGeometry height="30" width="150" x="380" y="384" as="geometry" />
+          <mxGeometry height="30" width="150" x="374" y="377" as="geometry" />
         </mxCell>
         <mxCell id="b8Wn0gmdy3Yzb2cbIPzx-96" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="660" y="400" as="sourcePoint" />
-            <mxPoint x="900" y="400" as="targetPoint" />
+            <mxPoint x="660" y="407" as="sourcePoint" />
+            <mxPoint x="900" y="407" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="b8Wn0gmdy3Yzb2cbIPzx-97" connectable="0" parent="b8Wn0gmdy3Yzb2cbIPzx-96" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="esborrarCompte()" vertex="1">
@@ -204,6 +201,12 @@
         </mxCell>
         <mxCell id="kf2D91WpEXh9QlQ9IsoT-9" parent="1" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="61.5" width="60" x="870" y="589" as="geometry" />
+        </mxCell>
+        <mxCell id="OC_I4lojWaM__WvQf9hb-1" edge="1" parent="1" source="b8Wn0gmdy3Yzb2cbIPzx-91" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.003;exitY=0.55;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.999;entryY=0.546;entryDx=0;entryDy=0;entryPerimeter=0;" target="b8Wn0gmdy3Yzb2cbIPzx-91" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="590" y="490" as="sourcePoint" />
+            <mxPoint x="640" y="440" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

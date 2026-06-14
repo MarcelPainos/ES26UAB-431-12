@@ -1,6 +1,6 @@
 <mxfile host="Electron">
   <diagram name="Pàgina-1" id="qvVAie-Hl5Rr7k6o38sZ">
-    <mxGraphModel dx="1228" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="808" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,8 +85,8 @@
         </mxCell>
         <mxCell id="b8Wn0gmdy3Yzb2cbIPzx-74" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="650" y="207" as="sourcePoint" />
-            <mxPoint x="397" y="207" as="targetPoint" />
+            <mxPoint x="650" y="213.13" as="sourcePoint" />
+            <mxPoint x="397" y="213.13" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="b8Wn0gmdy3Yzb2cbIPzx-75" connectable="0" parent="b8Wn0gmdy3Yzb2cbIPzx-74" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="demanarOpcio()" vertex="1">
@@ -461,6 +461,17 @@
         </mxCell>
         <mxCell id="DVy0fJPcpeF08-BT3keX-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Adreça vàlida" vertex="1">
           <mxGeometry height="28.45" width="103.17" x="461.73" y="925.86" as="geometry" />
+        </mxCell>
+        <mxCell id="F5PIAs3de8ahSDgFNpNo-1" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="648" y="196" as="sourcePoint" />
+            <mxPoint x="395" y="196" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F5PIAs3de8ahSDgFNpNo-2" connectable="0" parent="F5PIAs3de8ahSDgFNpNo-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="mostrarDadesPerfil()" vertex="1">
+          <mxGeometry relative="1" x="-0.0684" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
