@@ -1,6 +1,6 @@
 <mxfile host="Electron">
   <diagram name="Página-1" id="valorar_comanda_rebuda">
-    <mxGraphModel dx="1840" dy="1201" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1158" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
             <mxPoint x="560" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m3" edge="1" parent="1" style="endArrow=classic;" value="obtenirComandesLliurades()">
+        <mxCell id="m3" edge="1" parent="1" style="endArrow=classic;" value="obtenirInfoComanda()">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="340" as="sourcePoint" />
             <mxPoint x="800" y="340" as="targetPoint" />
@@ -51,8 +51,8 @@
         </mxCell>
         <mxCell id="r1" edge="1" parent="1" style="endArrow=open;dashed=1;" value="return">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="800" y="390" as="sourcePoint" />
-            <mxPoint x="560" y="390" as="targetPoint" />
+            <mxPoint x="800" y="370" as="sourcePoint" />
+            <mxPoint x="560" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m4" edge="1" parent="1" style="endArrow=classic;" value="mostrarComandesPerValorar()">
@@ -194,6 +194,12 @@
         </mxCell>
         <mxCell id="-q0m3BqyGtNZaYvr_i2_-20" parent="1" style="text;strokeColor=none;fillColor=none;align=center;" value="Valoracio" vertex="1">
           <mxGeometry height="30" width="100" x="957.5" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="6F5olPvh1V3h5vZ0yh5N-1" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=53;height=20;" value="loop" vertex="1">
+          <mxGeometry height="100" width="300" x="527" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="6F5olPvh1V3h5vZ0yh5N-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Per cada comanda lliurada" vertex="1">
+          <mxGeometry height="30" width="150" x="580" y="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

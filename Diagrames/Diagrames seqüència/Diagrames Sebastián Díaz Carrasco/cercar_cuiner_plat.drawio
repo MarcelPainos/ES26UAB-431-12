@@ -1,6 +1,6 @@
 <mxfile host="Electron">
   <diagram name="Página-1" id="cercar_cuiner_plat">
-    <mxGraphModel dx="1824" dy="1185" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1688" dy="1001" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,16 +43,16 @@
             <mxPoint x="560" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m3" edge="1" parent="1" style="endArrow=classic;" value="buscarPlats(nom)">
+        <mxCell id="m3" edge="1" parent="1" style="endArrow=classic;" value="obtenirInformacioPlat()">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="320" as="sourcePoint" />
             <mxPoint x="800" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m4" edge="1" parent="1" style="endArrow=classic;" value="buscarCuiners(nom)">
+        <mxCell id="m4" edge="1" parent="1" style="endArrow=classic;" value="obtenirInformacioCuiner()">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="380" as="sourcePoint" />
-            <mxPoint x="1010" y="380" as="targetPoint" />
+            <mxPoint x="560" y="409.17" as="sourcePoint" />
+            <mxPoint x="1010" y="409.17" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ret" edge="1" parent="1" style="endArrow=open;dashed=1;" value="return">

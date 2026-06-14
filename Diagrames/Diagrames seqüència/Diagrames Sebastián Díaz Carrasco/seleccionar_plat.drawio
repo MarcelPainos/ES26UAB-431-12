@@ -1,6 +1,6 @@
 <mxfile host="Electron">
   <diagram name="Página-1" id="seleccionar_plat">
-    <mxGraphModel dx="2165" dy="1413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2026" dy="1201" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,12 +88,12 @@
         <mxCell id="m4" edge="1" parent="1" style="endArrow=classic;" value="obtenirIngredients()">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="540" y="450" as="sourcePoint" />
-            <mxPoint x="970" y="450" as="targetPoint" />
+            <mxPoint x="770" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="r2" edge="1" parent="1" style="endArrow=open;dashed=1;" value="return">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="970" y="500" as="sourcePoint" />
+            <mxPoint x="770" y="500" as="sourcePoint" />
             <mxPoint x="540" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -211,6 +211,24 @@
         </mxCell>
         <mxCell id="cgvZ-RWbKn4n4v3eMZJD-2" parent="1" style="text;strokeColor=none;fillColor=none;align=left;" value="El plat està disponible" vertex="1">
           <mxGeometry height="30" width="250" x="100" y="990" as="geometry" />
+        </mxCell>
+        <mxCell id="2lqySj6ZAdaIIVJNKYkJ-1" edge="1" parent="1" style="endArrow=classic;" value="obtenirInfoIngredient()">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="460" as="sourcePoint" />
+            <mxPoint x="970" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2lqySj6ZAdaIIVJNKYkJ-2" edge="1" parent="1" style="endArrow=open;dashed=1;" value="return">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="970" y="480" as="sourcePoint" />
+            <mxPoint x="770" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2lqySj6ZAdaIIVJNKYkJ-3" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=30;height=15;" value="loop" vertex="1">
+          <mxGeometry height="60" width="250" x="770" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="2lqySj6ZAdaIIVJNKYkJ-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Per cada ingredient del plat" vertex="1">
+          <mxGeometry height="10" width="180" x="800" y="430" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
